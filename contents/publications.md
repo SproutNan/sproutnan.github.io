@@ -1,4 +1,17 @@
 
-- *X. Gao, W. Zhu, J. Gao and <strong><strong>C. Yin</strong></strong>. (2023). F-PABEE: Flexible-Patience-Based Early Exiting For Single-Label and Multi-Label Text Classification Tasks. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10095864)
 
-- *<strong><strong>C. Yin</strong></strong>. (2023). Multi-scale and multi-task learning for human audio forensics based on convolutional networks. International Conference on Image, Signal Processing, and Pattern Recognition (ISPP 2023).* [[Paper]](https://doi.org/10.1117/12.2681344)
+#### Papers
+
+- *Meng Li, Haoran Jin, <strong><strong>Ruixuan HUANG</strong></strong>, Xu Zhihao, Defu Lian, Xiting Wang.(2024). Towards Standardized Evaluation for Concept-Based Explanations. 2024 Association for Computational Linguistics (ACL)* (Under Reviewing)
+
+- *Qiahao Zheng, <strong><strong>Ruixuan HUANG</strong></strong>, Yuan Xiao, Rongde Lu.(2023). The design and application of modern Arago,s disc experiment  in college physics[J]. College Physics, 2023, 42(10): 44-.*
+
+#### Community contributions
+
+- Subreviewer of USENIX Security 2024
+
+- Subreviewer of TIST, 2023
+
+- Subreviewer of IEEE S&P 2024
+
+- Subreviewer of ICML 2024
