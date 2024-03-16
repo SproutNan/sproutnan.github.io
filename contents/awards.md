@@ -3,6 +3,18 @@
   
 
 
-- School Special Academic Scholarship, 2023.**(1%)**
+- HKUST Red Bird Scholarship, 2024.
 
-- First-Class Academic Scholarship, 2022.**(8%)**
+- Outstanding Student Scholarship (Silver Award), 2023.**(10%)**
+
+- National Scholarship, 2022.**(1%)**
+
+- Jianghuai Weilai Scholarship, 2021.**(2%)**
+
+**Competitions**
+
+- Silver Award of Yuqing Cup Software Design Competition, 2023.
+
+- First Prize in Anhui Province of Mathematical Modeling Competition for College Students, 2021.
+
+- First Prize in School Electromagnetics Essay Competition, 2021.
