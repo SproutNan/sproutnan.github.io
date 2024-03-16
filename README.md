@@ -1,7 +1,5 @@
 # A simple Github Pages template for academic personal website.
 
-[![Screenshot of the Website](https://github.com/JerryYin777/JerryYin777.github.io/blob/master/screenshot.png)](https://jerrysys.top/)
-
 ## Introduction
 
 This is an academic personal website (Congrui Yin) template based on bootstrap. This demo refers to [senli1073](https://github.com/senli1073/senli1073.github.io), thx to Mr.Sen Li's template.
