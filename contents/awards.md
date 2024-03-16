@@ -2,6 +2,7 @@
 
   
 
+#### Scholarships
 
 - HKUST Red Bird Scholarship, 2024.
 
@@ -11,7 +12,7 @@
 
 - Jianghuai Weilai Scholarship, 2021.**(2%)**
 
-**Competitions**
+#### Competitions
 
 - Silver Award of Yuqing Cup Software Design Competition, 2023.
 
