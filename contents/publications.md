@@ -2,13 +2,22 @@
 
 #### Papers
 
-- *Meng Li, Haoran Jin, <strong><strong>Ruixuan HUANG</strong></strong>, Xu Zhihao, Defu Lian, Xiting Wang.(2024). Towards Standardized Evaluation for Concept-Based Explanations. 2024 Association for Computational Linguistics (ACL)* (Under Reviewing)
+- *Meng Li, Haoran Jin, <strong>Ruixuan HUANG</strong>, Zhihao Xu, Defu Lian, Zijia Lin, Di ZHANG, Xiting Wang. (2024). Evaluating Readability and Faithfulness of Concept-based Explanations. EMNLP 2024 Main Conference Accepted.*
+
+- *Zhihao Xu, <strong>Ruixuan HUANG</strong>, Changyu Chen, Xiting Wang. (2024). Uncovering Safety Risks of Large Language Models through Concept Activation Vector. NeurIPS 2024 Submission.* 
 
 - *Qiahao Zheng, <strong><strong>Ruixuan HUANG</strong></strong>, Yuan Xiao, Rongde Lu.(2023). The design and application of modern Arago,s disc experiment  in college physics[J]. College Physics, 2023, 42(10): 44-.*
 
+#### Weblogs
+
+- *<strong>Ruixuan HUANG</strong>, Tianming Wu, Meng Li, Yi Zhan. (2024). Exploring the Evolution and Migration of Different Layer Embedding in LLMs.* [read](https://www.lesswrong.com/posts/4ZGHderZEEmQuCvxR/exploring-the-evolution-and-migration-of-different-layer)
+
 #### Community contributions
 
-- Subreviewer of USENIX Security 2024
-- Subreviewer of TIST, 2023
-- Subreviewer of IEEE S&P 2024
-- Subreviewer of ICML 2024
+##### Independent Reviewers
+
+ICLR 2025, NeurIPS 2024
+
+##### Subreviewers
+
+USENIX Security 2024, IEEE S&P 2024, ICML 2024, TIST 2023
