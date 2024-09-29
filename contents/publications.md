@@ -15,9 +15,5 @@
 
 #### Community contributions
 
-- **Independent Reviewers**
-  - ICLR 2025, NeurIPS 2024
-
-
-- **Subreviewers**
-  - USENIX Security 2024, IEEE S&P 2024, ICML 2024, TIST 2023
+- **Independent Reviewers**：ICLR 2025, NeurIPS 2024
+- **Subreviewers**：USENIX Security 2024, IEEE S&P 2024, ICML 2024, TIST 2023
