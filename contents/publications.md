@@ -4,7 +4,7 @@
 
 - *Meng Li, Haoran Jin, <strong><strong>Ruixuan HUANG</strong></strong>, Zhihao Xu, Defu Lian, Zijia Lin, Di ZHANG, Xiting Wang. (2024). Evaluating Readability and Faithfulness of Concept-based Explanations. EMNLP 2024 Main Conference.*
 
-- *Zhihao Xu, <strong><strong>Ruixuan HUANG</strong></strong>, Changyu Chen, Xiting Wang. (2024). Uncovering Safety Risks of Large Language Models through Concept Activation Vector. NeurIPS 2024 Conference.* 
+- *Zhihao Xu\*, <strong><strong>Ruixuan HUANG</strong></strong>\*, Changyu Chen, Xiting Wang. (2024). Uncovering Safety Risks of Large Language Models through Concept Activation Vector. NeurIPS 2024 Conference.* 
 
 - *Qiahao Zheng, <strong><strong>Ruixuan HUANG</strong></strong>, Yuan Xiao, Rongde Lu.(2023). The design and application of modern Arago,s disc experiment  in college physics[J]. College Physics, 2023, 42(10): 44-.*
 
