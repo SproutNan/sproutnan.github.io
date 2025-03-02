@@ -8,7 +8,7 @@
 
 - Outstanding Student Scholarship (Silver Award), 2023.**(10%)**
 
-- National Scholarship, 2022.**(1%)**
+- China National Scholarship, 2022.**(1%)**
 
 - Jianghuai Weilai Scholarship, 2021.**(2%)**
 
